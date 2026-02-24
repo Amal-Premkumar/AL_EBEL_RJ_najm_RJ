@@ -1,0 +1,9 @@
+../Core/Src/sa818s.c:6:13:SA818_Send	16	static
+../Core/Src/sa818s.c:11:19:SA818_WaitFor	32	static
+../Core/Src/sa818s.c:37:26:SA818_Handshake	8	static
+../Core/Src/sa818s.c:44:26:SA818_SetGroup	8	static
+../Core/Src/sa818s.c:50:19:SA818_SetVolume	16	static
+../Core/Src/sa818s.c:62:26:SA818_enableTail	8	static
+../Core/Src/sa818s.c:68:19:SA818_Init	8	static
+../Core/Src/sa818s.c:83:6:SA818_SetHighPower	8	static
+../Core/Src/sa818s.c:88:6:SA818_SetLowPower	8	static
